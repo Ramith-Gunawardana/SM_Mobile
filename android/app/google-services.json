@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "100301584215",
+    "firebase_url": "https://softwaremodeling-b879c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "softwaremodeling-b879c",
+    "storage_bucket": "softwaremodeling-b879c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100301584215:android:acfda5884774a1d8647012",
+        "android_client_info": {
+          "package_name": "github.io.ramith_gunawardana.sm_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHtBJoLk7AIsBm2J8CCotmEXsmYtUrW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
